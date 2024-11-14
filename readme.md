@@ -3,6 +3,6 @@
 Member:
 - Ju Jialin
 - Hou Yabin
-- Hou Kongyue
+- Liu Zhaoyue
 - Huang Xiaoying
 - Huang Jian
