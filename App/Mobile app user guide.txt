@@ -1,0 +1,13 @@
+The current version is only available for Android phones:
+Before connecting, turn on the power of the balanced mobile robot and turn on the Bluetooth of the phone.
+
+In this APP, click "Start Scanning" to begin scanning for available Bluetooth devices. 
+
+Click "Select Bluetooth Device" to open a list of available devices and complete the selection by clicking on the desired device. 
+
+If the connection is successful, the status bar text changes from "Disconnected" to "Connected," and the "Disconnect" button becomes enabled. 
+
+Clicking this button will disconnect the device, and the status bar text will revert to "Disconnected."
+
+Once the Bluetooth connection is established, the five function buttons can be used to control the balancing mobile robot to perform the corresponding actions: 
+"Move Forward," "Move Backward," "Turn Right," "Turn Left," and "Stop."
